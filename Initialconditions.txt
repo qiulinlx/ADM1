@@ -1,0 +1,16 @@
+1/24
+
+q2_00= np.random.uniform(-0.15, 0.2)
+p2_00= np.random.uniform(-0.2, 0.2)
+
+1/12
+q2_00= np.random.uniform(-0.3, 0.3)
+p2_00= np.random.uniform(-0.3, 0.3)
+
+1/8
+q2_00= np.random.uniform(-0.2, 0.2)
+p2_00= np.random.uniform(-0.4, 0.4)
+
+1/6
+q2_00= np.random.uniform(-0.4, 0.6)
+p2_00= np.random.uniform(-0.2, 0.2)
